@@ -9,8 +9,7 @@ The repository I am actively working on is as follows:
 * Data analysis: The data I have found and the story behind the data will be stored into this repository 
 * Python: There is some small projects that I have made along the way.
 
-### Contacts
-* email: franklinkao813@gmail.com
+
 
 
 <!---
