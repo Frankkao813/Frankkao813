@@ -1,14 +1,13 @@
 Hi, welcome to my repository! I am Franklin, currently a fourth year chemistry major student at NTU.
 
 ### Actively Learning:
-* Statistics
+* Statistics and linear algebra
 * C++ programming language and data structure
 
 ### Active Repository
+
 The repository I am actively working on is as follows:
-* Python: There is some small projects that I have made along the way. Automation tools might be uploaded more frequently.
-
-
+* NTU_knowledge_king: It is the final project in the programming design course I took. After looking at the code recently, I believe that there are multiple issue that I can work on.
 
 
 
