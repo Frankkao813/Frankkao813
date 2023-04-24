@@ -8,7 +8,7 @@ Hi, welcome to my repository! I am Franklin, currently a fourth year chemistry m
 
 The repository I am actively working on is as follows:
 * NTU_knowledge_king: It is the final project in the programming design course I took. After looking at the code recently, I believe that there are multiple issue that I can work on.
-
+* data analysis: It contains the datasets and the analysis work that I completed.
 
 
 <!---
