@@ -1,8 +1,8 @@
-Hi, welcome to my repository! I am Franklin, currently a fourth year chemistry major student at NTU.
+Hi, welcome to my repository! I am Franklin, currently a fourth year chemistry major student at National Taiwan University (NTU).
 
 ### Actively Learning:
-* Statistics and linear algebra
-* C++ programming language and data structure
+* computer architecture (Nand2Tetris)
+* data structure and algorithm (Data Structures and Algorithms Specialization)
 
 ### More complete repository
 
