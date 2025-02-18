@@ -1,9 +1,7 @@
 Hi, welcome to my repository! I am Franklin, currently a first year master student at Texas A&M University.
 
 ### Actively Learning:
-* Operating System: By following through the course at the university.
-* Software Engineering Concepts: Cooperate with a client and use agile methodology Agile Methodology to develop Ruby on Rails SaaS app.
-* Quantum Algorithm: Following thorugh IBM Quantum Learning Courses and the "Applied Cryptography" course at the university
+Natural Language Processing/ Computer Vision/ COmputational Photography
 
 ### More complete repository
 
