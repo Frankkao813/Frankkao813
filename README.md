@@ -1,16 +1,16 @@
-Hi, welcome to my GitHub!
+Hi, welcome to my GitHub! 👋
 
-I’m Franklin, a second-year master’s student in Computer Science at Texas A&M University. My interests include computer systems, artificial intelligence, and robotics.
+I'm Franklin, a master's student in Computer Science at Texas A&M University. My interests include computer systems, artificial intelligence, and robotics, particularly projects that connect ideas across different areas of computer science and engineering.
 
-### More complete repository
+I enjoy understanding systems from both the theoretical and implementation sides—whether that involves building software systems, experimenting with AI/LLM applications, or applying mathematical and control concepts to robotics problems.
 
-The repository that I think is more complete is as follows:
-* NTU_knowledge_king: It is the final project in the programming design course I took. It is a game related to trivia of NTU, and the users needs to answer questions correctly to win the game. The code is incorporated in other repositroy to become a GUI game.
-* school-solution: This repository uses the OpenAI Agents SDK together with an orchestrator design pattern to build a suite of tools that can support and potentially streamline the daily workflow of a supplementary school.
-* DepthMapReconstruction: This repository contains the final project for my Computational Photography course. My contribution focuses on implementing depth-map reconstruction using a combination of ZNCC and SGM techniques.
-* AI-Robotics: The project aims to replicate a paper that utilize control theory into adaptive cruise control scenario. Math derivation, implementation and discussion are detailed in the paper report.
+### Featured Projects
+* NTU_knowledge_king — A C++ trivia game developed as the final project for a programming design course at National Taiwan University. Players answer NTU-related questions and compete to win the game. The core game logic was later integrated into a separate repository to create a GUI-based version.
+* school-solution — An AI-assisted supplementary-school workflow system built with the OpenAI Agents SDK and an orchestrator-based architecture. The project explores how specialized AI tools can be coordinated to automate and streamline common school administrative workflows.
+* DepthMapReconstruction — A computational photography project implementing depth-map reconstruction using Zero-mean Normalized Cross-Correlation (ZNCC) and Semi-Global Matching (SGM). My contribution focused on implementing and evaluating the depth reconstruction pipeline.
+* AI-Robotics — A robotics project reproducing and analyzing a research paper that applies control-theoretic techniques to an adaptive cruise-control scenario. The repository includes mathematical derivations, implementation details, experimental results, and discussion.
 
-I believe that there are improvement that can be made to the repository. More changes will be done later.
+I'm continuing to improve these projects as I deepen my experience in C++, backend/software systems, AI, and robotics.
 
 <!---
 Frankkao813/Frankkao813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
