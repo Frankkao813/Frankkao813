@@ -1,8 +1,8 @@
 Hi, welcome to my GitHub! 👋
 
-I'm Franklin, a master's student in Computer Science at Texas A&M University. My interests include computer systems, artificial intelligence, and robotics, particularly projects that connect ideas across different areas of computer science and engineering.
+I'm Franklin, a master's student in Computer Science at Texas A&M University. My interests include computer systems, artificial intelligence, and robotics, particularly projects that connect different areas of computer science and engineering.
 
-I enjoy understanding systems from both the theoretical and implementation sides—whether that involves building software systems, experimenting with AI/LLM applications, or applying mathematical and control concepts to robotics problems.
+I enjoy exploring how things work under the hood and translating theoretical concepts into practical implementations. Through coursework, research, and personal projects, I aim to strengthen my engineering skills, tackle challenging problems, and broaden my understanding of software systems.
 
 ### Featured Projects
 * Multithreaded Web Crawler — A C++ web crawler using Winsock and a multithreaded producer-consumer architecture to process URLs concurrently and improve download throughput. Features include HTTP request handling, URL deduplication, thread synchronization, and a dedicated statistics thread for real-time performance monitoring.
